@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['994408465157', '994408465157']
-global.premium = ['994408465157']
-global.number = '994408465157'
-global.botname = 'AryBotz-MD'
-global.packname = 'ByAry-MD'
-global.author = 'By Ary-Caa-!'
-global.emailowner = 'arybotz791@gmail.com'
-global.websiteowner = 'https://github.com/aryjuanda'
+global.owner = ['6282138729360', '6282138729360']
+global.premium = ['6282138729360']
+global.number = '6282138729360'
+global.botname = 'Dreki-MD'
+global.packname = 'Dreki-MD'
+global.author = 'By Drek-Caa-!'
+global.emailowner = 'dreki791@gmail.com'
+global.websiteowner = 'https://github.com/jancugpristel'
 global.region = 'Indonesia'
 global.sessionName = "session"
 global.prefa = ['!','.','🐦','🐤','🗿']
